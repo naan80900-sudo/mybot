@@ -1,4 +1,4 @@
 streamlit
 pandas
 requests
-n1tk
+nltk
